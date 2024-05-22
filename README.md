@@ -8,7 +8,7 @@
 
 <h2 align="left">About me</h2>
 <p>I love to spend my time expoloring various articles related to computer science. I have spent lot's of hours coding which enables me to solve real world problems with most possible efficiency. I also love cricket and would love to have a conversation about it...</p>
-###
+
 
 <p align="left">✨ Coding since 2022<br>📚 I'm currently learning C++<br>🎯 Goals: Cloud Engineer<br>🎲 Fun fact: Captain of school cricket team(twice)</p>
 
