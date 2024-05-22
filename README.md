@@ -14,6 +14,15 @@
 
 ###
 
+<h2 align="left">Profile Links</h2>
+<p>
+    <a href="https://www.linkedin.com/in/kartavya-tomar/">Linkedin</a><br>
+    <a href="https://www.instagram.com/ch_kartavya_">Instagram</a><br>
+    <a href="https://twitter.com/ch_kartavya">Twitter</a><br>
+    <a href="https://leetcode.com/u/kartavya1729/">Leetcode</a><br>
+    <a href="https://www.codechef.com/users/kartavya_1704">CodeChef</a><br>
+</p>
+
 <h2 align="left">I code with C++ and Javascript</h2>
 
 ###
